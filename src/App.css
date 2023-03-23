@@ -1,0 +1,17 @@
+.App {
+  padding:80px;
+  color: white;
+  text-align: center;
+  background-color: rgb(73, 130, 118);
+  font-size: larger;
+}
+p{
+  font-size: large;
+  font-style:Italic;
+}
+input{
+  font-size:large;
+  border-radius: 50px;
+  padding:5px;
+  font-style:normal;
+}
